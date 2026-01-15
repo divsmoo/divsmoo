@@ -35,26 +35,11 @@ I'm a passionate Software Engineering student at Singapore Management University
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[(www.linkedin.com/in/divyeshrr)]
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divrr18@gmail.com)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-```
 
-## Adding Technology Badge Icons
-
-For those colorful technology icons, you can use:
-
-1. **shields.io** - Create custom badges with this format:
-```
-   ![Name](https://img.shields.io/badge/-Name-COLOR?style=flat&logo=LOGO_NAME&logoColor=white)
-```
-
-2. **Simple Icons** - Find logo names at [simpleicons.org](https://simpleicons.org/)
-
-3. **For icons like your senior's** - They're using actual image files or badges. You can also use:
-```
-   <img src="icon-url" width="50" height="50"/>
