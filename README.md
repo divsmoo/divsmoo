@@ -1,14 +1,14 @@
 # Hey there! 👋 I'm Divyesh ! 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6F1F7&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Vue.js+%7C+Java+%7C+Python;Building+Innovative+Projects)](https://git.io/typing-svg)
-## 🚀 About Me
+## About Me
 
 I'm a passionate Software Engineering student at Singapore Management University (SMU), currently in Year 2. I'm focused on building my programming fundamentals while working on exciting projects.
 
-🌱 **Currently Learning**: Strengthening fundamentals in Java, Vue.js, and Web Development  
-💡 **Passionate about**: Full-stack development and creating practical applications  
-🎯 **Working on**: WatchBuddy (AI movie recommendation app), JavaFX attendance system, and more!
+**Currently Learning**: Strengthening fundamentals in Java, Vue.js, and Web Development  
+**Passionate about**: Full-stack development and creating practical applications  
+**Working on**: WatchBuddy (AI movie recommendation app), JavaFX attendance system, and more!
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ I'm a passionate Software Engineering student at Singapore Management University
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyeshrr/)
 
