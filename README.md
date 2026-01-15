@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Divyesh ! 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6F1F7&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Vue.js+%7C+Java+%7C+Python;Building+Innovative+Projects)](https://git.io/typing-svg)
 ## 🚀 About Me
 
 I'm a passionate Software Engineering student at Singapore Management University (SMU), currently in Year 2. I'm focused on building my programming fundamentals while working on exciting projects.
