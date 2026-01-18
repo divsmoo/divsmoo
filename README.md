@@ -41,6 +41,6 @@ I'm a passionate Software Engineering student at Singapore Management University
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=divsmoo&color=brightgreen)
 
 
