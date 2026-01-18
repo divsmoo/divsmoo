@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Divyesh ! 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6F1F7&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Vue.js+%7C+Java+%7C+Python;Building+Innovative+Projects)](https://git.io/typing-svg)
-## About Me
 
+## About Me
 I'm a passionate Software Engineering student at Singapore Management University (SMU), currently in Year 2. I'm focused on building my programming fundamentals while working on exciting projects.
 
-**Currently Learning**: Strengthening fundamentals in Java, Vue.js, and Web Development  
+**Currently Learning**: Flask, Docker, and strengthening fundamentals in Java, Vue.js, and Web Development  
 **Passionate about**: Full-stack development and creating practical applications  
 **Working on**: WatchBuddy (AI movie recommendation app), JavaFX attendance system, and more!
 
@@ -20,6 +20,7 @@ I'm a passionate Software Engineering student at Singapore Management University
 
 ### Frameworks & Libraries
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat&logo=java&logoColor=white)
 
@@ -28,19 +29,15 @@ I'm a passionate Software Engineering student at Singapore Management University
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ## Let's Connect!
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyeshrr/)
-
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divrr18@gmail.com)
 
 ---
-
 ![Profile Views](https://komarev.com/ghpvc/?username=divsmoo&color=brightgreen)
-
-
