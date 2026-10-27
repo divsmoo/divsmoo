@@ -6,7 +6,6 @@ I'm a Year 3 Software Engineering student at Singapore Management University (SM
 
 **Experience**: AI Solutions Engineering Intern at Podsee, Software Engineering Intern at JEMiSys  
 **Currently working on**: The AWS platform for a bank CRM team project (network and compute in Terraform, an authenticated API layer and a CI/CD pipeline)  
-**Currently working on**: A bank CRM for UBS as a client project at SMU, where I lead the AWS platform workstream (Terraform infrastructure, an authenticated API layer and CI/CD)
 **Interested in**: Backend engineering, cloud and platform work, and building AI-enabled systems
 
 ## Technologies & Tools
